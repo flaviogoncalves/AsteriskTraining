@@ -1,7 +1,7 @@
 # AsteriskTraining
-This repository contains files for the Asterisk Training on Udemy, Instruction on the wiki https://github.com/flaviogoncalves/AsteriskTraining/wiki
+This repository contains files for the Asterisk Training on Udemy, Instructions are present on the wiki https://github.com/flaviogoncalves/AsteriskTraining/wiki
 
-A textbook is now available as a companion to your training in paperback, kindle and ebook formats
+A textbook is now available optionally as a companion to your training in paperback, kindle and ebook formats
 
 Complete Asterisk Training Paperback and Kindle Book https://amzn.to/2tm7TFb
 Complete Asterisk Training eBook PDF http://bit.ly/2UUebHG
