@@ -4,7 +4,7 @@ This repository contains files for the Asterisk Training on Udemy, Instructions 
 A textbook is now available optionally as a companion to your training in paperback, kindle and ebook formats
 
 Complete Asterisk Training Paperback and Kindle Book https://amzn.to/2tm7TFb
-Complete Asterisk Training eBook PDF http://bit.ly/2UUebHG
+Complete Asterisk Training eBook PDF https://www.asteriskguide.com/
 
 The labs were updated to Asterisk 16
 Old files were saved in the tag v15 for Asterisk 15
