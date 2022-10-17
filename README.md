@@ -11,11 +11,11 @@ Old files were saved in the tag v15 for Asterisk 15
 
 Trainings available in VoIP School 
 
-Complete Asterisk Training - https://voip.school/p/complete-asterisk-training
-Quick Start to FreeSwitch  - https://voip.school/p/quick-start-to-freeswitch
-SIP training for Professionals - https://voip.school/p/sip-training (Former Understanding and Troubleshooting SIP)
-VoIP Design and telephony fundamentals - https://voip.school/p/voip-design-and-telephony-fundamentals
-VoIP Hacking Training - https://voip.school/p/voip-hacking
-Quick Start to OpenSIPS - https://voip.school/p/quick-start-to-opensips
+Complete Asterisk Training - https://www.voip.school/p/complete-asterisk-training
+Quick Start to FreeSwitch  - https://www.voip.school/p/quick-start-to-freeswitch
+SIP training for Professionals - https://www.voip.school/p/sip-training (Former Understanding and Troubleshooting SIP)
+VoIP Design and telephony fundamentals - https://www.voip.school/p/voip-design-and-telephony-fundamentals
+VoIP Hacking Training - https://www.voip.school/p/voip-hacking
+Quick Start to OpenSIPS - https://www.voip.school/p/quick-start-to-opensips
 
-Subscription to all trainings  - https://voip.school/p/subscription
+Subscription to all trainings  - https://www.voip.school/p/subscription
